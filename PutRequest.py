@@ -31,7 +31,7 @@ data = {
   "content": text.decode("utf-8"),
   "committer": {
     "name": 'name of the committer',
-    "email": 'Your email address'
+    "email": 'Committer email address'
   }
 }
 

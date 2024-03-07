@@ -9,7 +9,7 @@ api_base_url = "https://api.github.com"
 # Set the owner name && name of the repository
 
 repo = " Repository name"
-owner = "Owner of the repository anem"
+owner = "Owner of the repository name"
 data = {
     "owner": "owner",
     "repo": repo,
